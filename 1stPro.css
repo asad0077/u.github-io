@@ -1,0 +1,384 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    background: url("./img/Header-Images-04.jpg");
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+/* Header/Logo Title */
+
+
+.header {
+    z-index: 1;
+  text-align: center;
+  background: #1abc9c;
+  color:wrgb(0, 0, 0);
+  padding-top: 0px;
+  border-top: -100px;
+  margin-top: -55px;
+   position: fixed;
+     width: 100%;
+     height: 150px;
+     opacity: 1;
+     border-radius:70px 140px 70px 140px;
+}
+
+#bio{
+    z-index: 0;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#of{
+    z-index: 0;
+    margin-top: 0px;
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#MU{
+    z-index: 0;
+    margin-top: 0px;
+text-align: center;
+font-size: 20px;
+position: relative;
+top: -95px;
+left: -10px;
+font-family: 'Times New Roman', Times, serif; 
+}
+
+.on,.tw,.th,.fo,.fi{
+    z-index: 0;
+    position: relative;
+    top: -290px;
+    right: -450px;
+}
+
+ .logom{
+     z-index: 0;
+     position: absolute;
+     top:10px ;
+     left:15px ;
+      }
+
+      .web,.web1{
+          z-index: 0;
+          top: 250px;
+          color: wheat;
+      }
+
+      .web{
+          z-index: 0;
+          position: relative;
+          left: 60px;
+      }
+
+      .web1{
+          z-index: 0;
+          position: absolute;
+          top:440px;
+          left:570px;
+      }
+
+
+      .web2{
+          z-index: 0;
+          position: absolute;
+          top:220px;
+          left:470px;
+          color: #1abc9c;
+          opacity: .75;
+      }
+
+      .b1,.b2{
+          z-index: 0;
+          border: 10px;
+          cursor: pointer;
+          color: #1abc9c;
+          transition: all .100s linear;
+          border: 1px solid black;
+          display: inline-block;
+          position: relative;
+          top: 500px;
+          right: -950px;
+          outline-width: 0.2rem;
+          outline-style: solid;
+          outline-color: wheat;
+          outline-offset: 5px;
+          margin: 15px;
+      }
+
+      .b3{
+          cursor: pointer;
+      }
+
+      .header2{
+          background: wheat;
+          opacity: 0.75;
+          height: 130vh;
+          width: 152%;
+          background-size: cover;
+      }
+
+
+      .web-{
+          position: relative;
+          top: 125px;
+          left: 150px;
+      }
+
+          .info{
+              z-index: 0;
+              position: relative;
+              font-size: 45px;
+              top: -310px;
+              left: 700px;
+              
+          }
+
+             .info1{
+                 z-index: 0;
+                 font-size: 45px;
+              position: relative;
+              top: -330px;
+              left: 620px;
+          }
+
+          .para{
+              z-index: 0;
+              text-align: justify;
+              font-size: 25px;
+              position: relative;
+              top: -320px;
+              left: 680px;
+              height: 5rem;
+              width: 35rem;
+              
+          }
+
+
+          .increasetra{
+              z-index: 0;
+              text-align: left;
+              position: relative;
+              top: -460px;
+              left: 80px;
+              height: 5rem;
+              width: 35rem;
+          }
+
+          .getleads{
+              z-index: 0;
+              text-align: center;
+              position: relative;
+              top: -565px;
+              left: 500px;
+              height: 5rem;
+              width: 30rem;
+          }
+
+         .ConvertCust{
+              text-align: right;
+              position: relative;
+              top: -642px;
+              left: 900px;
+              height: 5rem;
+              width: 30rem;
+          }
+
+
+          .b3{
+              z-index: 0;
+              text-align: center;
+              position: relative;
+              top: -432px;
+              left: 450px;
+          }
+
+       .header4{
+           z-index: 0;
+           margin-top: 0px;
+           padding-top: 0px;
+          background-size: cover;
+      }
+
+      .i9,.i14,.i15,.i50,.i900,.i90{
+          z-index: 0;
+          padding-left: 30px;
+          padding-top: 80px;
+          float: left;
+          margin-left: 25px;
+          font-size: 20px;
+          color:hsl(168, 99%, 33%);
+      }
+
+
+      #i9,#i14,#i15,#i50,#i900,#i90{
+          z-index: 0;
+          text-align: center;
+      }
+
+
+      .comment1,.comment2,.comment3{
+          width: 25%;
+          border: 5px solid wheat;
+          color: #525252ce;
+          height: 180px;
+          float: left;
+          margin: 15px;
+          text-align: center;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 20px;
+          padding:30px;
+          border-radius: 10px;
+      }
+
+
+      #com,#com1{
+          position: relative;
+          top: 100px;
+      }
+
+      .nm1{
+          display: inline;
+          position: relative;
+          top: 150px;
+          left: 150px;
+     }
+
+
+      .nm2{
+          display: inline;
+          position: relative;
+          top: -10px;
+          left: -10px;
+     }
+
+           .nm3{
+               text-align:center;
+               position: relative;
+               top: -10px;
+               left: -150px;
+     }
+
+                .nm-{
+               text-align:center;
+          position: relative;
+          top: -10px;
+          left: -70px;
+     }
+
+     
+      .mn1{
+          display: inline;
+          position: relative;
+          top: -50px;
+          left: 150px;
+     }
+
+
+      .mn2{
+          display: inline;
+          position: relative;
+          top: -100px;
+          left: 530px;
+     }
+
+           .mn3{
+               text-align:center;
+               position: relative;
+               top: -120px;
+               left: 450px;
+           }
+
+           .container{
+               align-content: center;
+               -moz-box-align: center;
+               align-items: center;
+           } 
+
+
+
+
+           /* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    z-index: 0;
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 0px; /* Add a top margin */
+  margin-bottom: 5px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    z-index: 0;
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    z-index: 0;
+  position: relative;
+  left: 900px;
+  border-radius: 10px;
+  background-color:wheat;
+  padding: 10px;
+  width: 350px;
+  height:370px;
+ 
+}
+
+
+
+             .i0,.i00,.i000,.i0000{
+                 
+                 box-sizing: border-box;
+                 position: relative;
+                 top: 100px;
+                 left: 100px;
+                 width: 23%;
+                 float: left;
+                 color: black;
+             }
+
+             .lik{
+                 background-origin: border-box;
+    box-sizing: border-box;
+    display: block;
+    display:block;
+    background-color: bisque;
+    height: 150px;
+    cursor: pointer; 
+    text-decoration: none;
+    margin-top: 100px;
+   
+}
+
+
+
+
+
+
+
+
